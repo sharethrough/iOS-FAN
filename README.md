@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "SharethroughFAN"
 ```
 
-## Author
-
-Richard Zhang, rizhang@umich.edu
-
 ## License
 
 SharethroughFAN is available under the MIT license. See the LICENSE file for more info.

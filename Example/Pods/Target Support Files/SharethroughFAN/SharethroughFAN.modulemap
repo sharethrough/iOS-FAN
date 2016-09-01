@@ -1,0 +1,6 @@
+framework module SharethroughFAN {
+  umbrella header "SharethroughFAN-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SharethroughFAN (0.1.0)
+
+DEPENDENCIES:
+  - SharethroughFAN (from `../`)
+
+EXTERNAL SOURCES:
+  SharethroughFAN:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SharethroughFAN: d3925e03d91d02b6394de1466d2de344bb879cef
+
+PODFILE CHECKSUM: cfb2dda62391025c370f445b1d1211c8ad463681
+
+COCOAPODS: 1.0.1

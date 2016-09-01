@@ -1,0 +1,22 @@
+{
+  "name": "SharethroughFAN",
+  "version": "0.1.0",
+  "summary": "A short description of SharethroughFAN.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SharethroughFAN",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Richard Zhang": "rizhang@umich.edu"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SharethroughFAN.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SharethroughFAN/Classes/**/*"
+}
