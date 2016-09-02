@@ -10,8 +10,8 @@
 #if __has_include(<SharethroughSDK/SharethroughSDK.h>)
     #import <SharethroughSDK/SharethroughSDK.h>
 #else
-    #import "STRNetworkAdapter.h"
-    #import "STRAdvertisement.h"
+    #import <SharethroughSDK/STRNetworkAdapter.h>
+    #import <SharethroughSDK/STRNetworkAdapter.h>
 #endif
 
 @interface FANNetworkAdapter : STRNetworkAdapter
